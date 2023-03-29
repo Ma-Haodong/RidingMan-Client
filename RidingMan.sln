@@ -7,9 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestHTTP", "BestHTTP.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{b8bb63bd-286f-9adf-a332-e0ebc2c4d3f4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Runtime", "NativeGallery.Runtime.csproj", "{9d08b018-0153-f199-ce23-effbcb4c9327}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{fab179ad-d558-1b32-684c-f813f871d3fe}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{7b9bd0f8-b8ca-5455-9eb5-b24b12359118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Editor", "NativeGallery.Editor.csproj", "{16dd30fa-a85b-daa5-bc00-b905a65eca4d}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +26,14 @@ Global
 		{161419dc-40ad-ecb0-9784-6f44555ee9a9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{b8bb63bd-286f-9adf-a332-e0ebc2c4d3f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{b8bb63bd-286f-9adf-a332-e0ebc2c4d3f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9d08b018-0153-f199-ce23-effbcb4c9327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9d08b018-0153-f199-ce23-effbcb4c9327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{fab179ad-d558-1b32-684c-f813f871d3fe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{fab179ad-d558-1b32-684c-f813f871d3fe}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7b9bd0f8-b8ca-5455-9eb5-b24b12359118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7b9bd0f8-b8ca-5455-9eb5-b24b12359118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16dd30fa-a85b-daa5-bc00-b905a65eca4d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16dd30fa-a85b-daa5-bc00-b905a65eca4d}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

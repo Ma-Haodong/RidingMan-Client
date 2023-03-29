@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_30;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_CLOUD_FEATURES;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2020_3_30;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_CLOUD_FEATURES;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;CT_RTV;CT_PROC;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;DEVELOPMENT_BUILD</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -62,6 +62,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\ExtraTypes\OnlineMapsVector2i.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Interfaces\IOnlineMapsInteractiveElement.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\ExtraTypes\OnlineMapsSavableItem.cs" />
+     <Compile Include="Assets\Scripts\SelectIconControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Projections\OnlineMapsProjectionSphericalMercator.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Cache\OnlineMapsCache.Memory.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\FindAutocompleteExample.cs" />
@@ -77,6 +78,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Mapbox\OnlineMapsMapboxStyle.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\Results\OnlineMapsGoogleElevationResult.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Cache\OnlineMapsCache.File.cs" />
+     <Compile Include="Assets\Scripts\HomeControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\RotateCameraByCompassExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\LocationService\OnlineMapsLocationService.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Markers\Drawers\OnlineMapsMarkerBufferDrawer.cs" />
@@ -90,6 +92,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Markers\Drawers\OnlineMapsMarkerFlatDrawer.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\DottedLineExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\ChangePositionAndZoomEventsExample.cs" />
+     <Compile Include="Assets\Scripts\LoginControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\OSMRequestExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\ChangeProviderAndTypeExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Core\OnlineMapsDMSConverter.cs" />
@@ -111,11 +114,11 @@
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\RealTilesetSizeExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Tiles\OnlineMapsTileManager.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples\Scripts\CustomMarkerEngine.cs" />
-     <Compile Include="Assets\Scripts\InfiniteLayoutGroup.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\TilesetOverlayExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\DrawingAPI_Example.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\InterceptInputExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Threading\OnlineMapsThreadWINRT.cs" />
+     <Compile Include="Assets\Scripts\InfoControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Third-party Assets\OnlineMapsEasyTouchConnector.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsGooglePlaces.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples\Scripts\UICompass.cs" />
@@ -128,7 +131,6 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\ExtraTypes\OnlineMapsPositionRange.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Plugins\OnlineMapsPBR.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsOpenRouteServiceGeocode.cs" />
-     <Compile Include="Assets\Scripts\Test.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Cache\OnlineMapsCache.Custom.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\ExtraTypes\OnlineMapsGenericBase.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Plugins\OnlineMapsAdjustToScreen.cs" />
@@ -159,7 +161,6 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\Base\OnlineMapsWebServiceAPI.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Controls\2D\OnlineMapsUIRawImageControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\Results\OnlineMapsGooglePlacesAutocompleteResult.cs" />
-     <Compile Include="Assets\Scripts\MileageCounterControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Elevations\OnlineMapsArcGISElevationManager.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Elevations\OnlineMapsBingMapsTiledElevationManager.cs" />
      <Compile Include="Assets\Scripts\PageControl.cs" />
@@ -181,6 +182,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Projections\OnlineMapsProjection.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\CustomDownloadTileExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Plugins\OnlineMapsRawImageTouchForwarder.cs" />
+     <Compile Include="Assets\Scripts\RegisterControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\uGUI\uGUICustomTooltipForAllMarkersExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples\Scripts\Aircraft.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Elevations\OnlineMapsTiledElevationManager.cs" />
@@ -232,6 +234,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Core\OnlineMapsReflectionHelper.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\DrawingElementEventsExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsBingMapsLocation.cs" />
+     <Compile Include="Assets\Scripts\SportControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\Results\OnlineMapsAMapSearchResult.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsOSMAPIQuery.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Drawing\Managers\OnlineMapsDrawingElementManager.cs" />
@@ -274,6 +277,7 @@
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsGooglePlacesAutocomplete.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Tiles\OnlineMapsVectorTile.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\WebServices\OnlineMapsHereRoutingAPI.cs" />
+     <Compile Include="Assets\Scripts\ReadyControl.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\QQSearchExample.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Scripts\Core\OnlineMapsZipDecompressor.cs" />
      <Compile Include="Assets\Infinity Code\Online maps\Examples (API usage)\DistanceAndDirectionExample.cs" />
@@ -918,6 +922,14 @@
     <ProjectReference Include="BestHTTP.csproj">
       <Project>{161419dc-40ad-ecb0-9784-6f44555ee9a9}</Project>
       <Name>BestHTTP</Name>
+    </ProjectReference>
+    <ProjectReference Include="NativeGallery.Editor.csproj">
+      <Project>{16dd30fa-a85b-daa5-bc00-b905a65eca4d}</Project>
+      <Name>NativeGallery.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="NativeGallery.Runtime.csproj">
+      <Project>{9d08b018-0153-f199-ce23-effbcb4c9327}</Project>
+      <Name>NativeGallery.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
